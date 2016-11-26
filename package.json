@@ -6,10 +6,16 @@
   "dependencies": {
     "express": "^4.14.0",
     "got": "^6.6.3",
+    "humps": "^2.0.0",
     "jsonfile": "^2.4.0",
-    "unfluff": "^1.1.0"
+    "podcast": "^0.2.2",
+    "remove-whitespace": "^1.1.0",
+    "unfluff": "^1.1.0",
+    "watson-developer-cloud": "^2.9.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "localtunnel": "^1.8.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
