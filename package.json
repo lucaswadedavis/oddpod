@@ -1,0 +1,26 @@
+{
+  "name": "oddpod",
+  "version": "1.0.0",
+  "description": "text-to podcast mashup",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "got": "^6.6.3",
+    "jsonfile": "^2.4.0",
+    "unfluff": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucaswadedavis/oddpod.git"
+  },
+  "author": "Luke Davis <lucaswadedavis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaswadedavis/oddpod/issues"
+  },
+  "homepage": "https://github.com/lucaswadedavis/oddpod#readme"
+}
